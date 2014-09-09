@@ -13,7 +13,7 @@ Getting Started
 ---------------
 
 1. Clone this repository to your local system.
-2. Build your application in accordance with the [Component Specification](https://github.com/OptiRTC/OptiUI-Taggregator/blob/master/Component%20Specification.docx), checking in code to your local clone of this repository.
+2. Build your application in accordance with the [Component Specification](https://github.com/OptiRTC/OptiUI-VendingMachine/blob/master/Functional%20Specifications.md), checking in code to your local clone of this repository.
 3. Attach a zip file of your complete repository along with your job application.
 
 How you will be evaluated
