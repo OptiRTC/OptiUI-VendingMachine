@@ -17,3 +17,4 @@ A .NET application that mimics the functionality of a coffee vending machine. Pr
 - Allow multiple coffee orders per payment transaction.
 - Allow adding money in standard monetary increments (from $0.05 to $20).
 - Allow user to specify the end of a payment transaction and dispense change.
+- Developer should provide a minimum set of passing unit tests
