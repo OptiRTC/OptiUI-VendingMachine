@@ -7,7 +7,7 @@ Test for potential Opti back-end devs: build a coffee vending machine
 Welcome
 -------
 
-This repository is the starting point for the new OptiRTC .NET developer take-home test. It includes a brief specifications document describing the application you should create to include in your OptiRTC job application. Please follow the Getting Started guide below to submit your application to the OptiRTC development team.
+This repository is the starting point for the new OptiRTC developer take-home test. It includes a brief specifications document describing the application you should create to include in your OptiRTC job application. Please follow the Getting Started guide below to submit your application to the OptiRTC development team.
 
 Getting Started
 ---------------
